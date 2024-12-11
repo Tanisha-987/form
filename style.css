@@ -1,0 +1,43 @@
+body
+{
+    background-color: black;
+    color: white;
+}
+
+
+table
+{
+    position: absolute;
+    top: 50px;
+    left: 240px;
+    height: 500px;
+    width: 1000px;
+    border: 17px double white;
+    border-spacing: 10px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+
+input
+{
+    outline: none;
+    border: none;
+    height: 25px;
+    width: 300px;
+    font-size: 20px;
+    margin: 8px;
+}
+
+.a
+{
+    font-size: 20px;   
+}
+
+
+.a:hover
+{
+    background-color: rgb(112, 249, 21);
+   
+}
+
